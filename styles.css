@@ -350,6 +350,11 @@ h3 {
   margin: 0;
 }
 
+.footer-note {
+  margin-top: 12px;
+  color: var(--muted);
+}
+
 @keyframes intro-name {
   to {
     opacity: 1;
