@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1200" viewBox="0 0 960 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Portre fotoğrafı bekleniyor</title>
+  <desc id="desc">Olcay Karaman portre fotoğrafı için geçici görsel alanı.</desc>
+  <rect width="960" height="1200" fill="#111"/>
+  <path d="M0 0h960v1200H0z" fill="#111"/>
+  <path d="M108 126h744v948H108z" fill="none" stroke="#2a2a2a" stroke-width="2"/>
+  <circle cx="480" cy="412" r="130" fill="#242424"/>
+  <path d="M244 869c30-159 123-244 236-244s206 85 236 244" fill="#242424"/>
+  <path d="M170 1028h620" stroke="#c7a96b" stroke-width="6" stroke-linecap="round"/>
+  <text x="480" y="1102" fill="#b7b3aa" font-family="Arial, sans-serif" font-size="30" text-anchor="middle">OLCAY KARAMAN</text>
+</svg>
